@@ -1,6 +1,6 @@
 01 and 02 are mostly the same 01 is a zipper suit that's slightly bigger with the battery in your back while the 02 use magnetic straps with a frontal battery
 
-you'll need the prefab and vrcfury (https://github.com/vr-commiter/VRChat/releases/tag/VRChat-Prefab
+you'll need the prefab and vrcfury (https://github.com/vr-commiter/VRChat/releases/tag/VRChat-Prefab , and 
 https://vrcfury.com/download)
 
 truegear's video (https://www.youtube.com/watch?v=Tfzr4xWiWZ0)
