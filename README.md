@@ -19,3 +19,5 @@ you're gonna want to have the collision points be on your avi's skin, if it's to
 you're also gonna want to open torso and other and select all the contacts then resize them however you want, A1 to B5 G1 to H5 are the frontal contacts C1 to F5 are the back contacts
 ![Capture_decran_546](https://github.com/user-attachments/assets/a7b727de-25fe-4fb4-adbe-76c86af4940c) ![Capture_decran_510](https://github.com/user-attachments/assets/d699479e-baf2-4f4f-a712-a24b86715092)
 
+if you need further help join the official truegear discord server and ask in the support feedback channel
+https://discord.gg/ByTGRvCYmx
