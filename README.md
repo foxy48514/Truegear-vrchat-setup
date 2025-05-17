@@ -1,6 +1,8 @@
 01 and 02 are mostly the same 01 is a zipper suit that's slightly bigger with the battery in your back while the 02 use magnetic straps with a frontal battery
 
-you'll need the prefab and vrcfury (https://github.com/vr-commiter/VRChat/releases/tag/VRChat-Prefab , and 
+first make sure OSC is enabled in vrchat you'll need the action menu, navigate to options, OSC and make sure it is enabled and then click the vrchat mod in the truegear app and check if the osc settings are ready (see picture 670 to 675) 
+
+you'll need your avatar ready in unity, the truegear prefab and vrcfury (https://github.com/vr-commiter/VRChat/releases/tag/VRChat-Prefab , and 
 https://vrcfury.com/download)
 
 truegear's video (https://www.youtube.com/watch?v=Tfzr4xWiWZ0)
