@@ -12,8 +12,10 @@ https://vrcfury.com/download)
 
 truegear's video (https://www.youtube.com/watch?v=Tfzr4xWiWZ0)
 
-when you'll start with the avi, do not resize the suit at all until you've unchecked the parent constraint (shift click before and after then unlock and unfreeze the position, you'll have to recheck everything once it's done and if you're wondering that's the lights effect for the suit if you want to use them
+when you'll start with the avi, do not resize the suit at all until you've unchecked the parent constraint (shift click before and after then unlock and unfreeze the position, you'll have to recheck everything once it's done and if you're wondering that's the lights effect for the suit if you want to use them ![Capture_decran_549](https://github.com/user-attachments/assets/4dd4799a-aa08-42a2-93f4-0a7c71786367)
 
-you're gonna want to have the collision points be on your avi's skin, if it's too big or too small you can always resize them
 
-you're gonna want to open torso and other and select all the contacts then resize them however you want, A1 to B5 G1 to H5 are the frontal contacts C1 to F5 are the back contacts
+you're gonna want to have the collision points be on your avi's skin, if it's too big or too small you can always resize them 
+you're also gonna want to open torso and other and select all the contacts then resize them however you want, A1 to B5 G1 to H5 are the frontal contacts C1 to F5 are the back contacts
+![Capture_decran_546](https://github.com/user-attachments/assets/a7b727de-25fe-4fb4-adbe-76c86af4940c) ![Capture_decran_510](https://github.com/user-attachments/assets/d699479e-baf2-4f4f-a712-a24b86715092)
+
