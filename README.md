@@ -26,19 +26,21 @@ to use the "lights on touch" feature, disable (torso)
 if you need further help join the official truegear discord server and ask in the support feedback channel
 https://discord.gg/ByTGRvCYmx
 
+
+
 ###Troubleshoot###
 
-Battery
+Battery.
 the suit oftentime comes dead on arrival, (less than 0% battery, battery on safe mode), you're gonna have to charge it without the ems (until the suit lights up) for the whole day, the charging stops when the suit stops "breathing"
 
-EMS ISSUE
+EMS ISSUE.
 if the suit powers on but not the ems, place the EMS on the charging dock and hold the button for 2 seconds, if not ask for help in the discord
 
-MOD NOT INSTALLING
+MOD NOT INSTALLING.
 if the vrchat mod doesn't install verify in settings if your game directory is steam/common/truegear_##### (as long as it's truegear it's good), else uninstall and reinstall the mod, if it still doesn't work wipe and reinstall the app
 
-MULTIPLE OSC
+MULTIPLE OSC.
 if you have another OSC app in the background like eye/face tracking, you're going to need Vor (https://github.com/SutekhVRC/VOR), that will allow you to use multiple OSC instances
 
-DONGLE
+DONGLE.
 the dongle can say driver error, it will still work without any issue as long as you don't have your pc too far or cluttered, if it does not work you can use any 2.4 dongle
