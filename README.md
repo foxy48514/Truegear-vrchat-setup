@@ -31,12 +31,6 @@ you're also gonna want to open torso and other and select all the contacts then 
 to use the "lights on touch" feature, disable (torso)
 
 
-
-if you need further help join the official truegear discord server and ask in the support feedback channel
-https://discord.gg/ByTGRvCYmx
-
-
-
 ###Troubleshoot###
 
 
@@ -51,3 +45,8 @@ if the vrchat mod doesn't install verify in settings if your game directory is s
 if you have another OSC app in the background like eye/face tracking, you're going to need Vor (https://github.com/SutekhVRC/VOR), that will allow you to use multiple OSC instances
 
 the dongle can say driver error, it will still work without any issue as long as you don't have your pc too far or cluttered, if it does not work you can use any 2.4 dongle
+
+
+if you need further help join the official truegear discord server and ask in the support feedback channel
+https://discord.gg/ByTGRvCYmx
+
