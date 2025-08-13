@@ -44,7 +44,7 @@ if the vrchat mod doesn't install verify in settings if your game directory is s
 
 if you have another OSC app in the background like eye/face tracking, you're going to need Vor (https://github.com/SutekhVRC/VOR), that will allow you to use multiple OSC instances
 
-the dongle can say driver error, it will still work without any issue as long as you don't have your pc too far or cluttered, if it does not work you can use any 2.4 dongle
+the dongle can say driver error if your drivers are outdated, just update your pc to the newest driver version, do not connect the suit directly on window, if you did that forget the suit from windows entirely (the suit connect using the app), if it still does not work you can use any 2.4 dongle
 
 
 if you need further help join the official truegear discord server and ask in the support feedback channel
