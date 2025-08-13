@@ -1,3 +1,5 @@
+###Setup###
+
 truegear's video (https://www.youtube.com/watch?v=Tfzr4xWiWZ0)
 
 i recommend you watch the official truegear video first
@@ -12,12 +14,31 @@ first make sure OSC is enabled in vrchat you'll need the action menu, navigate t
 you'll need your avatar ready in unity, the truegear prefab and vrcfury (https://github.com/vr-commiter/VRChat/releases/tag/VRChat-Prefab , and 
 https://vrcfury.com/download)
 
-when you'll start with the avi, do not resize the suit at all until you've unchecked the parent constraint (shift click before and after then unlock and unfreeze the position, you'll have to recheck everything once you've finished with any resizing and if you're wondering that's the lights effect for the suit if you want to use them ![Capture_decran_549](https://github.com/user-attachments/assets/4dd4799a-aa08-42a2-93f4-0a7c71786367)
+when you'll start with the avi, do not resize the suit at all until you've unchecked the parent constraint (shift click before and after then unlock and unfreeze the position, you'll have to recheck everything once you've finished with any resizing/positioning and if you're wondering that's the lights effect for the suit ![Capture_decran_549](https://github.com/user-attachments/assets/4dd4799a-aa08-42a2-93f4-0a7c71786367)
 
 
 you're gonna want to have the collision points be on your avi's skin, if it's too big or too small you can always resize them 
 you're also gonna want to open torso and other and select all the contacts then resize them however you want, A1 to B5 G1 to H5 are the frontal contacts C1 to F5 are the back contacts
 ![Capture_decran_546](https://github.com/user-attachments/assets/a7b727de-25fe-4fb4-adbe-76c86af4940c) ![Capture_decran_510](https://github.com/user-attachments/assets/d699479e-baf2-4f4f-a712-a24b86715092)
 
+to use the "lights on touch" feature, disable (torso)
+
 if you need further help join the official truegear discord server and ask in the support feedback channel
 https://discord.gg/ByTGRvCYmx
+
+###Troubleshoot###
+
+Battery
+the suit oftentime comes dead on arrival, (less than 0% battery, battery on safe mode), you're gonna have to charge it without the ems (until the suit lights up) for the whole day, the charging stops when the suit stops "breathing"
+
+EMS ISSUE
+if the suit powers on but not the ems, place the EMS on the charging dock and hold the button for 2 seconds, if not ask for help in the discord
+
+MOD NOT INSTALLING
+if the vrchat mod doesn't install verify in settings if your game directory is steam/common/truegear_##### (as long as it's truegear it's good), else uninstall and reinstall the mod, if it still doesn't work wipe and reinstall the app
+
+MULTIPLE OSC
+if you have another OSC app in the background like eye/face tracking, you're going to need Vor (https://github.com/SutekhVRC/VOR), that will allow you to use multiple OSC instances
+
+DONGLE
+the dongle can say driver error, it will still work without any issue as long as you don't have your pc too far or cluttered, if it does not work you can use any 2.4 dongle
