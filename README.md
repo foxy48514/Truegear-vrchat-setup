@@ -7,7 +7,11 @@ i recommend you watch the official truegear video first
 first make sure OSC is enabled in vrchat you'll need the action menu, navigate to options, OSC and make sure it is enabled and then click the vrchat mod in the truegear app and check if the osc settings are ready (see picture 670 to 675)  
 
 
-![Capture d’écran (670)](https://github.com/user-attachments/assets/b72ec6f3-7557-4d16-a39c-b0d536482bec) ![Capture d’écran (672)](https://github.com/user-attachments/assets/b573085a-52d7-444b-9855-1c5e0ede68c9) ![Capture d’écran (673)](https://github.com/user-attachments/assets/0495a173-bda8-4e28-8f56-342798e79447) ![Capture d’écran (674)](https://github.com/user-attachments/assets/a22fbd66-568e-4248-81e1-82a78ae1838a) ![Capture d’écran (675)](https://github.com/user-attachments/assets/4c7893ca-b5e0-4ea1-8396-20c627406336)
+![Capture d’écran (670)](https://github.com/user-attachments/assets/b72ec6f3-7557-4d16-a39c-b0d536482bec) ![Capture d’écran (672)](https://github.com/user-attachments/assets/b573085a-52d7-444b-9855-1c5e0ede68c9) ![Capture d’écran (673)](https://github.com/user-attachments/assets/0495a173-bda8-4e28-8f56-342798e79447) 
+
+do not change the receive and send port values if you do not have another osc app running in the background, preferably keep wether to enable send disabled, if you have another osc app running, use Vor, receive port is the truegear mod and send is vrchat
+
+![Capture d’écran (674)](https://github.com/user-attachments/assets/a22fbd66-568e-4248-81e1-82a78ae1838a) ![Capture d’écran (675)](https://github.com/user-attachments/assets/4c7893ca-b5e0-4ea1-8396-20c627406336)
 
 
 
