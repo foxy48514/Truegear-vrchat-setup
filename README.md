@@ -12,7 +12,7 @@ first make sure OSC is enabled in vrchat you'll need the action menu, navigate t
 
 
 
-the vrchat mod only starts when you click on it from the app, this will activate the app and launch an instance of the game, you can wait until you're already in steamvr/vrchat to activate it (activating the mod on the app if you're already in vrchat will activate the mod and won't create a new instance)
+the vrchat mod only starts when you click on the icon in the app, doing so will open vrchat and the mod, if you're already in vrchat only the mod will be opened
 
 you'll need your avatar ready in unity, the truegear prefab and vrcfury (https://github.com/vr-commiter/VRChat/releases/tag/VRChat-Prefab , and 
 https://vrcfury.com/download)
